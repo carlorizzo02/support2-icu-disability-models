@@ -8,4 +8,4 @@ The analysis utilizes the publicly available **SUPPORT2** (Study to Understand P
 
 ## 📂 Contents
 * `support2_disability_models.ipynb`: The complete Jupyter Notebook containing the source code, feature embedding pipelines, and model evaluation.
-* `Abstract_BollettiniRizzoTotis.pdf`: The comprehensive project abstract detailing the clinical background, methodology, and results.
+* `abstract_SUPPORT2_project.pdf`: The comprehensive project abstract detailing the clinical background, methodology, and results.
